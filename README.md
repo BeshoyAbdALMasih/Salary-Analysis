@@ -61,5 +61,3 @@ capital-loss                         0.013647
 education_HS-grad                    0.012350
 ```
 
-## License
-This project is licensed under the MIT License.
